@@ -1,0 +1,15 @@
+.copyleft {
+    display:inline-block;
+    transform: rotate(180deg);
+  }
+  @media (max-width: 768px) {
+    .card {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 576px) {
+    .card {
+        font-size: 12px;
+    }
+}
